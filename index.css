@@ -20,9 +20,15 @@ ul {
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #97b470;
+}
+
 li {
   display: inline;
   padding: 3px;
+  color: #97b470;
 }
 
 .flexbox-container {

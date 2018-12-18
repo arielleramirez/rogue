@@ -102,3 +102,21 @@ img {
   font-family: "Hind Guntur", sans-serif;
   font-size: 1vw;
 }
+
+.locationbox {
+  margin-left: 15%;
+}
+
+.locationbox img {
+  width: 350px;
+  height: 350px;
+  margin: 50px;
+  background-color: black;
+}
+
+.locationbox p {
+  float: right;
+  padding: 150px 300px 0 0;
+  width: 150px;
+  font-size: 1.5vw;
+}

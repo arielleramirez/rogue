@@ -38,6 +38,7 @@ li {
 .navbox {
   margin-left: 50%;
   margin-top: 2%;
+  display: fixed;
 }
 
 #banner {

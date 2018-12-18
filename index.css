@@ -36,7 +36,7 @@ li {
 }
 
 .navbox {
-  margin-left: 35%;
+  margin-left: 40%;
   margin-top: 2%;
 }
 
@@ -81,4 +81,24 @@ img {
 
 .footer {
   text-align: center;
+}
+
+.menu-box {
+  width: 50%;
+  height: 700px;
+  margin-left: 25%;
+  border: 1px solid black;
+}
+
+.menu-box div {
+  font-family: "Sacramento", cursive;
+  font-size: 4vw;
+  font-weight: bold;
+  padding: 20px;
+}
+
+#menufont {
+  color: black;
+  font-family: "Hind Guntur", sans-serif;
+  font-size: 1vw;
 }
